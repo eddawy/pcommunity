@@ -1,0 +1,3 @@
+class SecondBranch
+end
+
